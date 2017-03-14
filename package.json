@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "jsmpeg": "^1.0.0",
+    "mock-browser": "^0.92.12",
     "ws": "^1.1.1"
   }
 }
